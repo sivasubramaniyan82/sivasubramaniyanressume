@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix</title>
+</head>
+<style>
+    body{
+        margin: 0;
+        padding: 0;
+    }
+    .main{
+        height: 100vh;
+        width: 100vw;
+        position: relative;
+    }
+    #netflix{
+        height: 100%;
+        width: 100%;
+        filter: brightness(25%);
+       
+    }
+    #netflix_logo{
+        width:200px;
+        left : 20px;
+        position: absolute;
+        top: 5%;
+    }
+    .main1{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+        color: white;
+        
+    }
+    
+    .main2{
+        position:absolute;
+        top:5%;
+        right:100px;
+        color: white;
+    }
+
+    .main11{
+        position: absolute;
+        top: 68%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        color: white;
+
+    }
+
+    .main11 input{
+        width: 320px;
+        height: 35px;
+        background-color: rgba(56, 54, 54, 0.5);
+        border: 2px solid silver;
+        left:60%;
+        border-radius: 5px;
+        
+    }
+    .main11 ::placeholder{
+        color: white;
+        padding-left: 40px;
+        font-size: medium;
+
+    }
+    .main11 button{
+        width: 120px;
+        height: 40px;
+        background-color: rgb(221, 3, 3);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: medium;
+    }
+    .main2 select{
+        width: 100px;
+        height: 30px;
+        background-color: rgba(56, 54, 54, 0.5);
+        border: 2px solid silver;
+        color: white;
+        border-radius: 5px;
+    }
+    .main2 option{
+        background-color: black;
+    }
+    .main2 button{
+        width: 75px;
+        height: 30px;
+        background-color: rgb(221, 3, 3);
+        color: white;
+        border: none;
+        border-radius: 5px;
+        font-size: medium;
+    }
+    
+</style>
+<body>
+    <div class="main">
+        <img src="netflix.jpg" alt="Netflix" id="netflix"> 
+    <div>
+        <img src="Netflix Logo.png" alt="Netflix logo" id="netflix_logo">
+    </div>
+    <div class="main1">
+        <h1>Unlimited movies, TV shows, and more.</h1>
+        <h1>Watch anywhere. Cancel at anytime.</h1>
+        <p>Starts at &#8377; 149.  Enter your email to create or restart your membership.</p>
+    </div>
+    <div class="main11">
+        <table>
+            <tr>
+                <td>
+                    <input type="text" placeholder="Email address">
+                </td>
+                <td>
+                    <button>Get Started &gt;</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="main2">
+        <table>
+            <tr>
+                <td>
+                    <select name="" id="">
+                        <option>English</option>
+                        <option>தமிழ்</option>
+                    </select>
+
+                </td>
+                <td>
+                    <button><b>Sign in</b></button>
+                </td>
+            </tr>
+        </table>
+
+    </div>
+    </div>
+    
+</body>
+</html>
