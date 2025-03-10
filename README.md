@@ -34,7 +34,7 @@ git clone https://github.com/sivasubramaniyan82.github.io/sivasubramaniyanressum
 ## Deployment
 This portfolio is deployed using **GitHub Pages**.  
 Visit the live version here:  
-👉 [https://sivasubramaniyan82.github.io/sivasubramaniyanressume/](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Ressume.html) 
+👉 [https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Ressume.html/](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Ressume.html) 
 
 ## Contact
 - 📧 Email: sivask1602@gmail.com  
