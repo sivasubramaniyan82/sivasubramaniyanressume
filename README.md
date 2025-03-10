@@ -13,20 +13,28 @@ The website is built using **HTML/CSS** and is designed to be fully responsive.
 - 📊 **Projects with Descriptions**  
 - 📱 **Responsive Design** (Mobile-Friendly)
 
+## Project list
+Created various web sites which are published below.
+[https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Masala%20Cafe/Food%20Website.html](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Masala Cafe)
+[https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Navbar/Navbar.html](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Navbar)
+[https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Netflix/Netflix%20Homepage.html](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Netflix)
+[https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Shirt%20Website/Shirt%20Website.html](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Shirt Website)
+[https://sivasubramaniyan82.github.io/sivasubramaniyanressume/TODO/TODO%20List.html](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/TODO)
+
 ## Installation
 If you'd like to run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/sivasubramaniyan82.github.io/Siva-Portfolio.git
+git clone https://github.com/sivasubramaniyan82.github.io/sivasubramaniyanressume.git
 
-2. Open the folder and launch the **index.html** file in your browser.
+2. Open the folder and launch the **Ressume.html** file in your browser.
 
 
 ## Deployment
 This portfolio is deployed using **GitHub Pages**.  
 Visit the live version here:  
-👉 [https://<your-username>.github.io/Siva-Portfolio/](https://sivasubramaniyan82.github.io/Siva-Portfolio/) 
+👉 [https://sivasubramaniyan82.github.io/sivasubramaniyanressume/](https://sivasubramaniyan82.github.io/sivasubramaniyanressume/Ressume.html) 
 
 ## Contact
 - 📧 Email: sivask1602@gmail.com  
@@ -35,3 +43,4 @@ Visit the live version here:
 
 ## License
 This project is open-source and free to use. You can modify and deploy it as needed.
+
